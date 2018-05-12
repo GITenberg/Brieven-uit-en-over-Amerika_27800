@@ -1,0 +1,38 @@
+_repo: Brieven-uit-en-over-Amerika_27800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Jacobs, Aletta H. (Aletta Henriette)
+    aliases:
+    - Jacobs, Aletta Henriette
+    - Jacobs, Aletta Henriëtte
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '24971'
+    url: http://www.gutenberg.org/2009/agents/24971
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Aletta_Jacobs
+    - http://www.alettajacobs.org/home.html
+  - agent_name: Gerritsen, C. V. (Carel Victor)
+    alias: Gerritsen, Carel Victor
+    birthdate: 1850
+    deathdate: 1905
+    gutenberg_agent_id: '32917'
+    url: http://www.gutenberg.org/2009/agents/32917
+description: ''
+gutenberg_issued: '2009-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27800'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+title: Brieven uit en over Amerika
+url: http://www.gutenberg.org/ebooks/27800
